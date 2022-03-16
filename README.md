@@ -1,5 +1,5 @@
 # Windows Hello for Business Implementation
-This repository holds all of my scripts and resources for implementing Windows Hello for Business into a new or existing environment.
+This repository holds all of my scripts and resources for implementing Windows Hello for Business into a lab environment for testing or educational purposes.
 
 This lab is based on a [hybrid key trust deployment.](https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust)
 
